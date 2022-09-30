@@ -13,6 +13,8 @@
 }
 .logo{
 width: 500px;
+margin-left: auto;
+margin-right: auto;
 margin-bottom: 0px;
 background-color: #fffa77;
 }
