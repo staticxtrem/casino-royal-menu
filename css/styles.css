@@ -4,7 +4,8 @@
 .container-top{
   display: flex;
   flex-direction: column;
-  background-color: #fffa77;
+
+  background: linear-gradient(45deg, #fffa77, #008aff);
 }
 .productscontainer {
   display: flex;
