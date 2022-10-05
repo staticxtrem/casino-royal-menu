@@ -5,7 +5,7 @@
   display: flex;
   flex-direction: column;
 
-background: linear-gradient(120deg, #fffa77 40%, #0059ff);
+background: linear-gradient(20deg, #fffa77 40%, #0059ff);
 }
 .productscontainer {
   display: flex;
@@ -17,7 +17,7 @@ width: 350px;
 margin-left: auto;
 margin-right: auto;
 margin-bottom: 0px;
-background: linear-gradient(120deg, #fffa77 40%, #0059ff);
+background: linear-gradient(20deg, #fffa77 40%, #0059ff);
 }
 .titulo{
   font-family: "Titan One";
